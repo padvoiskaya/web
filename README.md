@@ -7,3 +7,22 @@
 [Тест-план для веб-приложений](https://docs.google.com/spreadsheets/d/1TRKTnIDd5v0Oixn0Fp6QaCh6qx0FW8CJk3jUL2w3JC8/edit?usp=sharing)
 
 Документ содержит подробное описание области тестирования, критериев входа и выхода, рисков, используемых инструментов и других важных аспектов тестирования.
+
+
+## Чек-лист тестирования веб-приложения
+
+В данном чек-листе перечислены ключевые проверки функциональности веб-приложения
+
+Ссылка на чек-лист: [Чек-лист тестирования](https://docs.google.com/spreadsheets/d/1AmvS4KlSLcx_jHF8pydMjnAYZBRl22B71LUXPQp-OHA/edit?usp=sharing)
+
+## Тест-кейсы на Qase
+
+Тест-кейсы для данного проекта доступны в системе Qase. 
+Ссылка на тест-кейсы: [Тест-кейсы в Qase](https://app.qase.io/project/G9?suite=245)
+
+## Отчеты о дефектах
+
+Отчеты о дефектах, связанных с функциональностью управления корзиной и заказами.
+Ссылка на документ с отчетом:
+[Перейти к отчетам о дефектах (Cart and Order Management)](https://docs.google.com/spreadsheets/d/1GOrZAV97wVuqnxqt9447DaMyT1EyYs7Ixx2KoQIrw1Y/edit?usp=sharing)
+
