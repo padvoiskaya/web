@@ -1,0 +1,89 @@
+/* Общие стили */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+main {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 20px;
+}
+
+/* Шапка */
+header {
+    background-color: #579f63;
+    color: rgb(58, 56, 56);
+    text-align: center;
+    padding: 1em 0;
+}
+
+/* Фото */
+#photo {
+    flex: 1;
+    text-align: center;
+}
+
+.profile-photo {
+    max-width: 100%;
+    width: 400px;
+    height: auto;
+    border-radius: 0;
+    border: 3px solid #838587;
+}
+
+
+/* Блок "Тестовые артефакты" */
+#artifacts {
+    flex: 1;
+    margin: 20px;
+    width: 50%; 
+    padding-right: 20px; 
+}
+
+#artifacts h2 {
+    color: #393c3f;
+    margin-bottom: 10px
+}
+
+#artifacts ul {
+    list-style: none;
+    padding: 0;
+}
+
+#artifacts li a {
+    text-decoration: none;
+    color: #0078d4;
+}
+
+#artifacts li a:hover {
+    text-decoration: underline;
+}
+
+#contacts {
+    margin: 20px;
+}
+
+#contacts h2 {
+    color: #363738;
+}
+
+#contacts ul {
+    list-style: none;
+    padding: 0;
+}
+
+/* Подвал */
+footer {
+    text-align: center;
+    background-color: #579f63;
+    color: rgb(61, 58, 58);
+    padding: 10px 0;
+    margin-top: 20px;
+}
+
+
