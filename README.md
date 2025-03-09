@@ -20,3 +20,9 @@
 [Скриншот веб-страницы](https://drive.google.com/file/d/1jdlkd2dSWPhJYTUI1FADeoimMmURhNJ5/view?usp=sharing)<br>
 [HTML](https://github.com/padvoiskaya/web/blob/main/index.html)<br>
 [CSS](https://github.com/padvoiskaya/web/blob/main/styles.css)<br>
+
+
+# Перехват, замена трафика в Charles Proxy
+1. [Изменение количества товаров в корзине на ресурсе https://demoshopping.ru](https://drive.google.com/file/d/1b1E0YrmslisK5GMmYaNAZyhSoqjQYn21/view?usp=drive_link)
+2. [Моделирование обращения к https://demoshopping.ru где сервер возвращает статус-код 403](https://drive.google.com/file/d/1u8WXVAtAYGCOhxePx8mUbmRgKHSPYcvr/view?usp=drive_link)
+3. [Перенаправление запроса с одного окружения на другое](https://drive.google.com/file/d/19iRYzx81UC1Ae-SdnI0xRkKVD9OwPrCr/view?usp=drive_link)
